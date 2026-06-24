@@ -44,19 +44,16 @@ Helping users with **Disease Prediction**, **Mental Health Analysis**, **Emotion
 
 ---
 
-## 📸 Application Preview
+## 🎥 Application Demo
 
-Add screenshots here after deployment.
+### Chatbot UI Demo
+- [View Demo](assets/Demos/chatbot_ui_demo.mp4)
 
-```text
-assets/
-└── screenshots/
-    ├── home.png
-    ├── mental_health.png
-    └── physical_health.png
-```
+### Mental Health Module Demo
+- [View Demo](assets/Demos/mental_health_demo.mp4)
 
----
+### Physical Health Module Demo
+- [View Demo](assets/Demos/physical_health_demo.mp4)
 
 ## 🏗️ System Workflow
 
