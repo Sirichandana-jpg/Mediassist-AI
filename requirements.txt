@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+streamlit
+matplotlib
+joblib
+python-dotenv
+SQLAlchemy
+flask       
+transformers
+torch
+sentencepiece
