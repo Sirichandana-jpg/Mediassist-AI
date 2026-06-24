@@ -58,23 +58,16 @@ Helping users with **Disease Prediction**, **Mental Health Analysis**, **Emotion
 ## 🏗️ System Workflow
 
 ```text
-User Query
-     │
-     ▼
-Intent Classification
-     │
- ┌───┴────────────┐
- │                │
- ▼                ▼
-Physical      Mental
-Health        Health
- │                │
- ▼                ▼
-Disease      Emotion
-Prediction   Detection
- │                │
- ▼                ▼
-Recommendations AI Response
+         User Query
+            ▼
+      Intent Classification
+        ┌───┴────────────┐
+        ▼                ▼
+Physical Health       Mental Health                        
+      ▼                      ▼
+Disease Prediction      Emotion Detection
+      ▼                      ▼
+     Recommendations AI Response
 ```
 
 ---
@@ -95,28 +88,61 @@ Recommendations AI Response
 
 ## 📂 Project Structure
 
+
 ```text
-PROJECT/
+Mediassist-AI
 │
-├── app.py
-├── requirements.txt
+├── 📄 app.py
+├── 📄 requirements.txt
+├── 📄 README.md
+├── 📄 .gitignore
 │
-├── chatbot/
+├── 📁 DATA
+│   ├── dataset.csv
+│   ├── clean_dataset.csv
+│   ├── clean_mental_health.csv
+│   ├── intent_dataset.csv
+│   ├── Training.csv
+│   └── Testing.csv
+│
+├── 📁 BIG DATA
+│   ├── mental_health_combined_test.csv
+│   ├── mental_heath_unbalanced.csv
+│   ├── symptom_Description.csv
+│   ├── symptom_precaution.csv
+│   └── Symptom_severity.csv
+│
+├── 📁 chatbot
 │   ├── greetings.py
 │   ├── intent_classifier.py
-│   ├── predict.py
+│   ├── main_chatbot.py
 │   ├── mental_health.py
+│   ├── predict.py
 │   └── symptom_normalizer.py
 │
-├── models/
+├── 📁 models
 │   ├── physical_health_model.pkl
 │   ├── mental_health_model.pkl
-│   └── intent_model.pkl
+│   ├── intent_model.pkl
+│   ├── train_model.py
+│   ├── train_mental_model.py
+│   └── train_intent_model.py
 │
-├── DATA/
-├── preprocessing/
-├── assets/
-└── README.md
+├── 📁 preprocessing
+│   ├── data_loader.py
+│   ├── create_intent_dataset.py
+│   └── 📁 Notebook
+│       ├── rawdatapreprocess.ipynb
+│       └── Mental_Health_EDA.ipynb
+│
+└── 📁 assets
+    ├── logo.png
+    ├── image.png
+    └── 📁 Demos
+        ├── chatbot_ui_demo.mp4
+        ├── mental_health_demo.mp4
+        └── physical_health_demo.mp4
+
 ```
 
 ---
@@ -174,6 +200,7 @@ http://localhost:8501
 
 ### Physical Health Model
 
+* Naive Bayes
 * TF-IDF Vectorizer
 * Disease Classification
 * Severity Assessment
@@ -214,19 +241,3 @@ https://mediassist-ai-18011979.streamlit.app/
 ```
 
 ---
-
-## 👩‍💻 Developer
-
-### Jalagam Sirichandana
-
-B.Tech Computer Science & Engineering
-
-National Institute of Technology (NIT) Silchar
-
----
-
-<div align="center">
-
-⭐ If you like this project, consider giving it a star.
-
-</div>
