@@ -387,4 +387,5 @@ Users should seek appropriate medical care for persistent, severe, or emergency 
 ## Live Demo
 ```text
 https://mediassist-ai-18011979.streamlit.app/
+```
 
