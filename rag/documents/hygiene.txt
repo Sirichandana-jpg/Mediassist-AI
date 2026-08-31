@@ -1,0 +1,6 @@
+TITLE: Hand Hygiene and Infection Prevention
+SOURCE: World Health Organization (WHO)
+OVERVIEW: Hand hygiene is an important measure for reducing the spread of infections.
+GOOD PRACTICES: Wash hands with soap and water when visibly dirty; clean hands during food preparation and eating; clean hands after using the toilet; cover coughs and sneezes appropriately; maintain food and water hygiene.
+SOURCE URL: https://www.who.int/teams/integrated-health-services/infection-prevention-control/hand-hygiene
+DISCLAIMER: Educational information only; it does not replace professional diagnosis or treatment.

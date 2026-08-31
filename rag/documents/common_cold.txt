@@ -1,0 +1,8 @@
+TITLE: Common Cold
+SOURCE: MedlinePlus
+OVERVIEW: The common cold is a viral infection of the upper respiratory tract.
+COMMON SYMPTOMS: Runny or stuffy nose; sneezing; sore throat; cough; mild headache; mild body aches.
+SELF-CARE: Rest, adequate fluids, and appropriate symptomatic care can help. Antibiotics do not treat viral colds.
+WHEN TO SEEK CARE: Seek medical advice for severe, persistent, or unusual symptoms, especially breathing difficulty.
+SOURCE URL: https://medlineplus.gov/commoncold.html
+DISCLAIMER: Educational information only; it does not replace professional diagnosis or treatment.

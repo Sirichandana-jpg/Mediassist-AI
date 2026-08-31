@@ -1,0 +1,30 @@
+Disease: Dengue
+
+Overview:
+Dengue is a viral infection transmitted mainly through the bites of infected Aedes mosquitoes.
+
+Common symptoms:
+- High fever
+- Severe headache
+- Pain behind the eyes
+- Muscle and joint pain
+- Nausea or vomiting
+- Rash
+
+Warning signs:
+Severe abdominal pain, persistent vomiting, rapid breathing, bleeding, extreme weakness, pale or cold skin, or blood in vomit or stool can be signs of severe dengue and require immediate medical care.
+
+General care:
+Rest, drink adequate fluids, monitor symptoms, and seek medical advice. WHO notes that there is no specific treatment for dengue; appropriate medical care is important, especially for severe disease.
+
+Prevention:
+- Avoid mosquito bites.
+- Use repellents and protective clothing.
+- Reduce standing water and mosquito breeding sites.
+
+Source:
+World Health Organization (WHO), Dengue fact sheet, 21 August 2025.
+https://www.who.int/en/news-room/fact-sheets/detail/dengue-and-severe-dengue
+
+Disclaimer:
+Educational information only. It does not replace professional diagnosis or treatment.

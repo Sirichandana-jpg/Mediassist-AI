@@ -1,0 +1,32 @@
+Disease: Typhoid
+
+Overview:
+Typhoid fever is a bacterial infection caused by Salmonella Typhi. It is usually spread through contaminated food or water.
+
+Common symptoms:
+- Prolonged fever
+- Fatigue
+- Headache
+- Nausea
+- Abdominal pain
+- Constipation or diarrhoea
+- Sometimes a rash
+
+Diagnosis and treatment:
+Typhoid can be confirmed through appropriate testing. It can be treated with antibiotics prescribed by a healthcare professional. Antibiotic resistance can make treatment more complicated.
+
+Prevention:
+- Use safe drinking water.
+- Maintain good sanitation and food hygiene.
+- Wash hands with soap and water.
+- Follow recommended vaccination guidance.
+
+When to seek care:
+Persistent high fever or worsening symptoms should be medically evaluated.
+
+Source:
+World Health Organization (WHO), Typhoid fact sheet.
+https://www.who.int/news-room/fact-sheets/detail/typhoid
+
+Disclaimer:
+Educational information only. It does not replace professional diagnosis or treatment.

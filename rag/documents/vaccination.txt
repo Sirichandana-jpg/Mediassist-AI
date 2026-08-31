@@ -1,0 +1,6 @@
+TITLE: Vaccination
+SOURCE: World Health Organization (WHO)
+OVERVIEW: Vaccines train the immune system to recognize and respond to specific infections and can prevent serious disease.
+KEY POINTS: Vaccination protects individuals and communities; recommended vaccines vary by age, location, health status, and risk; follow schedules recommended by qualified health authorities.
+SOURCE URL: https://www.who.int/health-topics/vaccines-and-immunization
+DISCLAIMER: Educational information only; it does not replace professional medical advice.

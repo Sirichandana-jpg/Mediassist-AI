@@ -1,0 +1,26 @@
+Condition: Asthma
+
+Overview:
+Asthma is a chronic lung disease involving inflammation and narrowing of the airways.
+
+Common symptoms:
+- Cough
+- Wheezing
+- Shortness of breath
+- Chest tightness
+
+Management:
+Inhaled medicines can control asthma symptoms. Avoiding known triggers can also reduce symptoms.
+
+Important:
+Breathing difficulty can become serious. Severe or rapidly worsening breathing problems require urgent medical attention.
+
+Care:
+People with recurring asthma-like symptoms should receive professional assessment and an appropriate management plan.
+
+Source:
+World Health Organization (WHO), Asthma fact sheet, 28 April 2026.
+https://www.who.int/en/news-room/fact-sheets/detail//asthma
+
+Disclaimer:
+Educational information only. It does not replace professional diagnosis or treatment.

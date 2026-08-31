@@ -1,0 +1,7 @@
+TITLE: Physical Activity
+SOURCE: World Health Organization (WHO)
+OVERVIEW: Regular physical activity provides physical and mental health benefits.
+BENEFITS: Supports cardiovascular health; physical fitness; mental wellbeing; healthy body weight; and can reduce risk of several chronic conditions.
+GENERAL GUIDANCE: Activity should be appropriate for age, ability, and health status. Seek professional advice when health concerns affect exercise choices.
+SOURCE URL: https://www.who.int/news-room/fact-sheets/detail/physical-activity
+DISCLAIMER: Educational information only; it does not replace professional medical advice.

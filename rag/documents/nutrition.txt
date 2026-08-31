@@ -1,0 +1,7 @@
+TITLE: Healthy Diet and Nutrition
+SOURCE: World Health Organization (WHO)
+OVERVIEW: A healthy diet helps support normal growth, development, health, and wellbeing.
+GENERAL PRINCIPLES: Eat a variety of foods; include vegetables and fruits; choose appropriate protein sources; prefer minimally processed foods; limit excessive free sugars, salt, and unhealthy fats; maintain adequate hydration.
+PERSONALIZATION: Nutritional needs vary with age, health status, activity, and other factors.
+SOURCE URL: https://www.who.int/news-room/fact-sheets/detail/healthy-diet
+DISCLAIMER: Educational information only; it does not replace professional medical or nutritional advice.

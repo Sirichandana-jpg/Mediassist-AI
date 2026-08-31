@@ -1,0 +1,8 @@
+TITLE: Gastroenteritis
+SOURCE: MedlinePlus
+OVERVIEW: Gastroenteritis is inflammation of the digestive tract, commonly caused by infections.
+COMMON SYMPTOMS: Diarrhea; nausea; vomiting; abdominal cramps; fever.
+SELF-CARE: Maintaining adequate fluid intake is important.
+WHEN TO SEEK CARE: Signs of dehydration, blood in stool or vomit, severe abdominal pain, persistent vomiting, or worsening symptoms require medical evaluation.
+SOURCE URL: https://medlineplus.gov/gastroenteritis.html
+DISCLAIMER: Educational information only; it does not replace professional diagnosis or treatment.

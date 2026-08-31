@@ -1,0 +1,26 @@
+Disease: Hepatitis A
+
+Overview:
+Hepatitis A is an inflammation of the liver caused by the hepatitis A virus.
+
+Transmission:
+It is mainly transmitted through ingestion of contaminated food or water or through direct contact with an infectious person.
+
+Symptoms and course:
+Hepatitis A can cause mild to severe illness. Unlike hepatitis B and C, it does not normally cause chronic liver disease, although rare severe complications can occur.
+
+Prevention:
+- Use safe drinking water.
+- Maintain sanitation and good hand hygiene.
+- Follow safe food practices.
+- Vaccination is available for prevention.
+
+Care:
+People with suspected hepatitis A should seek appropriate medical evaluation.
+
+Source:
+World Health Organization (WHO), Hepatitis A fact sheet, 14 May 2026.
+https://www.who.int/news-room/fact-sheets/detail/hepatitis-a
+
+Disclaimer:
+Educational information only. It does not replace professional diagnosis or treatment.
