@@ -1,4 +1,9 @@
- venv/
+@"
+venv/
 .venv/
+.vscode/
 __pycache__/
 *.pyc
+.env
+.streamlit/secrets.toml
+"@ | Set-Content -Encoding UTF8 .gitignore
