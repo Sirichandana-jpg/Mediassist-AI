@@ -111,7 +111,7 @@ Helping users with **Disease Prediction**, **Mental Health Analysis**, **Emotion
                              v
                        User Response
 ```
-##RAG Architecture
+## RAG Architecture
 MediAssist AI uses Retrieval-Augmented Generation to provide healthcare information based on a local knowledge base.
 ```text
 Healthcare Documents
@@ -387,4 +387,4 @@ Users should seek appropriate medical care for persistent, severe, or emergency 
 ## Live Demo
 ```text
 https://mediassist-ai-18011979.streamlit.app/
-```--
+
