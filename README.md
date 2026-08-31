@@ -110,8 +110,8 @@ Helping users with **Disease Prediction**, **Mental Health Analysis**, **Emotion
                              |
                              v
                        User Response
-```--
-## RAG Architecture
+```
+##RAG Architecture
 MediAssist AI uses Retrieval-Augmented Generation to provide healthcare information based on a local knowledge base.
 ```text
 Healthcare Documents
@@ -142,7 +142,7 @@ SmolLM2 Local LLM
         |
         v
 Context-Grounded Response
-```--
+```
 ## Tech Stack
 | Category | Technologies |
 | ---------------- | ------------------------- |
@@ -252,7 +252,7 @@ Mediassist-AI
         +-- chatbot_ui_demo.mp4
         +-- mental_health_demo.mp4
         +-- physical_health_demo.mp4
-```--
+```
 ## Installation
 ### Clone Repository
 ```bash
@@ -283,7 +283,7 @@ streamlit run app.py
 ### Open Browser
 ```text
 http://localhost:8501
-```--
+```
 ## RAG Setup
 The repository contains the healthcare documents and generated FAISS vector index required by the RAG system.
 ### Healthcare Documents
@@ -311,7 +311,7 @@ HuggingFaceTB/SmolLM2-1.7B-Instruct
 The model is integrated through:
 ```text
 rag/llm_response.py
-```--
+```
 ## Machine Learning Models
 ### Physical Health Model
 * Naive Bayes
@@ -369,7 +369,7 @@ Branch:
 main
 Main file:
 app.py
-```--
+```
 ## Safety Disclaimer
 MediAssist AI is an educational healthcare information system.
 It does not replace professional medical diagnosis, treatment, or consultation with a qualified healthcare professional.
