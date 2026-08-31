@@ -1,29 +1,44 @@
 # MediAssist AI
+
 <div align="center">
+
 ### AI-Powered Healthcare & Mental Wellness Assistant
+
 Helping users with **Disease Prediction**, **Mental Health Analysis**, **Emotion Detection**, **RAG-based Healthcare Information Retrieval**, and **AI-Powered Healthcare Recommendations**.
-</div>--
+
+</div>
+
+---
+
 ## Features
+
 ### Physical Health Analysis
+
 * Disease Prediction from Symptoms
 * Symptom Normalization
 * Severity Score Calculation
 * Disease Description
 * Preventive Measures
 * Health Risk Assessment
+
 ### Mental Health Analysis
+
 * Mental Condition Prediction
 * Emotion Detection using DistilBERT
 * Mental Wellness Scoring
 * Personalized AI Responses
 * Crisis Detection
+
 ### Smart Chatbot
+
 * Intent Classification
 * Greeting Detection
 * Interactive Conversations
 * Real-Time Recommendations
 * Context-Aware Healthcare Responses
+
 ### RAG-Based Healthcare Knowledge System
+
 * Retrieval-Augmented Generation (RAG)
 * Healthcare Knowledge Base
 * FAISS Vector Database
@@ -33,15 +48,33 @@ Helping users with **Disease Prediction**, **Mental Health Analysis**, **Emotion
 * Context-Grounded AI Responses
 * Local LLM Integration using SmolLM2
 * Responses generated using retrieved healthcare information
+
 ### Emergency Support
+
 * Ambulance Support
 * Mental Health Helpline
-* Crisis Alert Detection--
+* Crisis Alert Detection
+
+---
+
 ## Application Demo
-### Chatbot UI Demo- [View Demo](assets/Demos/chatbot_ui_demo.mp4)
-### Mental Health Module Demo- [View Demo](assets/Demos/mental_health_demo.mp4)
-### Physical Health Module Demo- [View Demo](assets/Demos/physical_health_demo.mp4)--
+
+### Chatbot UI Demo
+
+- [View Demo](assets/Demos/chatbot_ui_demo.mp4)
+
+### Mental Health Module Demo
+
+- [View Demo](assets/Demos/mental_health_demo.mp4)
+
+### Physical Health Module Demo
+
+- [View Demo](assets/Demos/physical_health_demo.mp4)
+
+---
+
 ## System Workflow
+
 ```text
                          User Query
                              |
