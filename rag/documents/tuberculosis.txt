@@ -1,0 +1,8 @@
+TITLE: Tuberculosis
+SOURCE: World Health Organization (WHO)
+OVERVIEW: Tuberculosis (TB) is an infectious disease caused by bacteria that most often affect the lungs and can spread through the air.
+COMMON SYMPTOMS: Prolonged cough; chest pain; weakness; fatigue; weight loss; fever; night sweats.
+DIAGNOSIS AND TREATMENT: TB requires appropriate medical testing and can be treated with recommended antibiotic regimens under professional supervision.
+WHEN TO SEEK CARE: Persistent cough, coughing blood, unexplained weight loss, fever, or night sweats should be medically evaluated.
+SOURCE URL: https://www.who.int/news-room/fact-sheets/detail/tuberculosis
+DISCLAIMER: Educational information only; it does not replace professional diagnosis or treatment.

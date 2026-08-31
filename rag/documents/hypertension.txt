@@ -1,0 +1,8 @@
+TITLE: Hypertension
+SOURCE: World Health Organization (WHO)
+OVERVIEW: Hypertension, or high blood pressure, is a common condition and often has no symptoms.
+POSSIBLE SEVERE SYMPTOMS: Severe headache; chest pain; difficulty breathing; vision changes; confusion.
+RISK REDUCTION: Reduce excess salt; maintain physical activity; avoid tobacco; follow a healthy diet; maintain healthy body weight; take prescribed medicines as directed.
+WHEN TO SEEK CARE: Very high blood pressure with severe symptoms requires urgent medical evaluation.
+SOURCE URL: https://www.who.int/news-room/fact-sheets/detail/hypertension
+DISCLAIMER: Educational information only; it does not replace professional diagnosis or treatment.

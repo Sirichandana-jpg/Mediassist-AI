@@ -1,0 +1,25 @@
+Disease: Hepatitis B
+
+Overview:
+Hepatitis B is a viral infection that affects the liver and can cause acute or chronic disease.
+
+Transmission:
+The virus can be transmitted from mother to child during birth, through infected blood or body fluids, unsafe injections or exposure to contaminated sharp instruments, and through sexual contact with an infected partner.
+
+Health impact:
+Chronic hepatitis B can increase the risk of cirrhosis and liver cancer.
+
+Prevention:
+- Hepatitis B vaccination is an effective prevention measure.
+- Avoid exposure to contaminated blood and unsafe injection practices.
+- Follow appropriate infection-prevention guidance.
+
+Care:
+People with possible hepatitis B should seek evaluation from a healthcare professional for appropriate testing and management.
+
+Source:
+World Health Organization (WHO), Hepatitis B fact sheet, 2026.
+https://www.who.int/news-room/fact-sheets/hepatitis-b
+
+Disclaimer:
+Educational information only. It does not replace professional diagnosis or treatment.

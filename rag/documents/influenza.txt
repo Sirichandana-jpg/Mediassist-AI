@@ -1,0 +1,7 @@
+TITLE: Influenza
+SOURCE: World Health Organization (WHO)
+OVERVIEW: Influenza is an acute respiratory infection caused by influenza viruses.
+COMMON SYMPTOMS: Sudden fever; cough; sore throat; muscle aches; headache; fatigue.
+PREVENTION: Follow recommended influenza vaccination guidance, practice hand hygiene, and reduce exposure when ill.
+WHEN TO SEEK CARE: Severe or worsening symptoms, especially breathing difficulty, should be medically evaluated.
+DISCLAIMER: Educational information only; it does not replace professional diagnosis or treatment.

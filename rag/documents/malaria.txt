@@ -1,0 +1,36 @@
+Disease: Malaria
+
+Overview:
+Malaria is a potentially life-threatening disease caused by Plasmodium parasites and transmitted mainly through infected female Anopheles mosquitoes.
+
+Common early symptoms:
+- Fever
+- Headache
+- Chills
+
+Severe symptoms:
+- Extreme fatigue
+- Confusion or impaired consciousness
+- Convulsions
+- Difficulty breathing
+- Dark or bloody urine
+- Jaundice
+- Abnormal bleeding
+
+Diagnosis and treatment:
+Early diagnosis and treatment reduce the risk of severe disease. Suspected malaria should be confirmed using appropriate diagnostic testing. Treatment depends on the parasite species, resistance patterns, age, weight and pregnancy status.
+
+Prevention:
+- Use insecticide-treated mosquito nets where appropriate.
+- Reduce mosquito bites with repellents and protective clothing.
+- Follow locally appropriate malaria prevention guidance.
+
+Emergency:
+Severe symptoms require emergency medical care.
+
+Source:
+World Health Organization (WHO), Malaria fact sheet, 4 December 2025.
+https://www.who.int/en/news-room/fact-sheets/detail/malaria
+
+Disclaimer:
+Educational information only. It does not replace professional diagnosis or treatment.

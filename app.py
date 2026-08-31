@@ -5,7 +5,7 @@ from chatbot.intent_classifier import predict_intent
 from chatbot.predict import predict_disease
 from chatbot.mental_health import analyze_mental_health
 from chatbot.symptom_normalizer import normalize_symptoms
-
+from rag.rag_pipeline import rag_answer
 # =========================
 # PAGE CONFIG
 # =========================
@@ -362,16 +362,30 @@ if user_input:
 
             if intent == "mental":
                 analysis = analyze_mental_health(user_input)
+ 
 
-                mental_reply = f"""
-<b> Mental Condition:</b> {analysis['condition']}<br><br>
-<b>Condition Confidence:</b> {analysis['condition_confidence']}%<br>
-<b>Emotion:</b> {analysis['emotion']}<br>
-<b>Mental Wellness Score:</b> {analysis['mental_score']}<br><br>
-<b> AI Response:</b><br>
+                rag_response = rag_answer(
+    user_query=user_input,
+    prediction=analysis["condition"],
+    health_type="mental"
+)
+                mental_reply = mental_reply = f"""
+**Mental Condition:** {analysis['condition']}
+
+**Condition Confidence:** {analysis['condition_confidence']}%
+
+**Emotion:** {analysis['emotion']}
+
+**Mental Wellness Score:** {analysis['mental_score']}
+
+**AI Response:**
 {analysis['response']}
-"""
 
+**MediAssist AI Explanation:**
+{rag_response}
+"""
+                
+                
                 st.session_state.messages.append(
                     {
                         "role": "assistant",
@@ -379,6 +393,7 @@ if user_input:
                     }
                 )
 
+                
                 st.markdown(
                     f"""
                     <div style="
@@ -416,6 +431,7 @@ if user_input:
                         analysis["mental_score"]
                     )
 
+                
                 st.markdown(
                     f"""
                     <div style="
@@ -433,6 +449,24 @@ if user_input:
                     """,
                     unsafe_allow_html=True
                 )
+                st.markdown(
+    f"""
+    <div style="
+    background-color:white;
+    padding:20px;
+    border-radius:15px;
+    border-left:6px solid #A06CD5;
+    color:#2C3E50;
+    font-size:18px;
+    margin-top:20px;
+    ">
+
+    <b>MediAssist AI Explanation</b>
+    {rag_response}
+    </div>
+    """,
+    unsafe_allow_html=True
+)
 
                 if analysis["crisis_detected"]:
                     st.error("⚠ Crisis Alert Detected")
@@ -445,23 +479,62 @@ if user_input:
                 normalized_input = normalize_symptoms(user_input)
                 result = predict_disease(normalized_input)
 
+                # =========================
+                # RAG + LLM RESPONSE
+                # =========================
+
+                rag_response = rag_answer(
+                    user_query=user_input,
+                    prediction=result["disease"],
+                    health_type="physical"
+)
+
+# =========================
+# SAVE CHAT HISTORY
+# =========================
+
                 physical_reply = f"""
-<b>Predicted Disease:</b> {result['disease']}<br><br>
-<b>Condition:</b> {result['condition']}<br>
-<b>Severity Score:</b> {result['severity_score']}<br><br>
-<b>Description:</b><br>
-{result['description']}<br><br>
-<b>Precautions:</b><br>
-{"<br>".join([f"- {p}" for p in result["precautions"]])}
+**Predicted Disease:** {result['disease']}
+
+**Condition:** {result['condition']}
+
+**Severity Score:** {result['severity_score']}
+
+**Description:**
+{result['description']}
+
+**Precautions:**
+{chr(10).join([f"- {p}" for p in result["precautions"]])}
+
+**MediAssist AI Explanation:**
+{rag_response}
 """
 
                 st.session_state.messages.append(
-                    {
-                        "role": "assistant",
-                        "content": physical_reply
-                    }
-                )
+    {
+        "role": "assistant",
+        "content": physical_reply
+    }
+)
 
+                
+                st.markdown(
+    f"""
+    <div style="
+    background-color:white;
+    padding:20px;
+    border-radius:15px;
+    border-left:6px solid #A06CD5;
+    color:#2C3E50;
+    font-size:18px;
+    margin-top:20px;
+    ">
+    <b>MediAssist AI Explanation</b>
+    {rag_response}
+    </div>
+    """,
+    unsafe_allow_html=True
+)
                 st.markdown(
                     f"""
                     <div style="
@@ -534,6 +607,7 @@ if user_input:
                         """,
                         unsafe_allow_html=True
                     )
+                
                 st.write("### Top Predictions")
 
                 for disease, prob in result["top_predictions"]:
@@ -562,13 +636,14 @@ color:{text_color};
 <li>Python</li>
 <li>Streamlit</li>
 <li>Scikit-Learn</li>
-<li>TF-IDF</li>
-<li>Logistic Regression</li>
-<li>Naive Bayes</li>
-<li>Hugging Face Transformers</li>
-<li>DistilBERT</li>
+<li>Machine Learning</li>
 <li>Natural Language Processing (NLP)</li>
+<li>FAISS Vector Database</li>
+<li>Retrieval-Augmented Generation (RAG)</li>
+<li>Sentence Transformers</li>
+<li>Hugging Face Transformers</li>
+<li>SmolLM2-1.7B-Instruct</li>
+<li>Healthcare Knowledge Base</li>
 </ul>
-
 </div>
 """, unsafe_allow_html=True)

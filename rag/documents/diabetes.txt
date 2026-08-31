@@ -1,0 +1,27 @@
+Condition: Diabetes
+
+Overview:
+Diabetes is a chronic disease in which the body does not produce enough insulin or cannot effectively use the insulin it produces. This can lead to elevated blood glucose.
+
+Possible symptoms:
+- Increased thirst
+- Frequent urination
+- Fatigue
+- Blurred vision
+- Unintentional weight loss
+
+Long-term risks:
+Uncontrolled diabetes can damage blood vessels and nerves and increase the risk of complications affecting the eyes, kidneys, heart and other organs.
+
+Prevention and management:
+For type 2 diabetes, healthy eating, regular physical activity, maintaining a healthy weight and avoiding tobacco can help prevent or delay onset. Regular medical screening and prescribed treatment are important.
+
+Care:
+Diagnosis requires appropriate medical assessment and testing.
+
+Source:
+World Health Organization (WHO), Diabetes fact sheet, 14 November 2024.
+https://www.who.int/news-room/fact-sheets/detail/diabetes
+
+Disclaimer:
+Educational information only. It does not replace professional diagnosis or treatment.

@@ -1,0 +1,7 @@
+TITLE: Pneumonia
+SOURCE: World Health Organization (WHO)
+OVERVIEW: Pneumonia is an infection of the lungs caused by bacteria, viruses, or fungi.
+COMMON SYMPTOMS: Cough; difficulty breathing; fever; chills; chest discomfort; fatigue.
+PREVENTION: Recommended vaccination, hand hygiene, good nutrition, and avoiding tobacco smoke can reduce risk.
+WHEN TO SEEK CARE: Difficulty breathing, severe weakness, confusion, or worsening symptoms should receive prompt medical evaluation.
+DISCLAIMER: Educational information only; it does not replace professional diagnosis or treatment.
